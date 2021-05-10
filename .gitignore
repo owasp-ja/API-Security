@@ -2,3 +2,4 @@
 *.swo
 .~lock*
 
+.DS_Store
